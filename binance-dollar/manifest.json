@@ -1,0 +1,14 @@
+{
+	"manifest_version": 2,
+
+	"name": "Binance Dollar Calculator",
+	"description": "A minimal extension that add dollar equivalent to your currencies.",
+	"version": "1.0",
+
+	"content_scripts": [
+		{
+			"matches": ["https://www.binance.com/userCenter/depositWithdraw.html"],
+			"js": ["dollar.js"]
+		}
+	]
+}
