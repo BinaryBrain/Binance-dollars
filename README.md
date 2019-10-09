@@ -1,5 +1,5 @@
 # Binance Dollars Chrome Extention
-A minimal Chrome extension display dollar equivalent on Binance.
+A minimal Chrome extension displaying dollar equivalent on Binance.
 
 ## Install
 
